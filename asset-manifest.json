@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/the-adityatomar/GATE-progress-Tracker/static/css/main.0143f2da.css",
-    "main.js": "/the-adityatomar/GATE-progress-Tracker/static/js/main.be137301.js",
-    "static/js/453.31d6e7d8.chunk.js": "/the-adityatomar/GATE-progress-Tracker/static/js/453.31d6e7d8.chunk.js",
-    "index.html": "/the-adityatomar/GATE-progress-Tracker/index.html",
-    "main.0143f2da.css.map": "/the-adityatomar/GATE-progress-Tracker/static/css/main.0143f2da.css.map",
-    "main.be137301.js.map": "/the-adityatomar/GATE-progress-Tracker/static/js/main.be137301.js.map",
-    "453.31d6e7d8.chunk.js.map": "/the-adityatomar/GATE-progress-Tracker/static/js/453.31d6e7d8.chunk.js.map"
+    "main.css": "/GATE-progress-Tracker/static/css/main.0143f2da.css",
+    "main.js": "/GATE-progress-Tracker/static/js/main.fa4dd173.js",
+    "static/js/453.31d6e7d8.chunk.js": "/GATE-progress-Tracker/static/js/453.31d6e7d8.chunk.js",
+    "index.html": "/GATE-progress-Tracker/index.html",
+    "main.0143f2da.css.map": "/GATE-progress-Tracker/static/css/main.0143f2da.css.map",
+    "main.fa4dd173.js.map": "/GATE-progress-Tracker/static/js/main.fa4dd173.js.map",
+    "453.31d6e7d8.chunk.js.map": "/GATE-progress-Tracker/static/js/453.31d6e7d8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0143f2da.css",
-    "static/js/main.be137301.js"
+    "static/js/main.fa4dd173.js"
   ]
 }

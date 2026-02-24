@@ -1,70 +1,129 @@
-# Getting Started with Create React App
+# 🎯 GATE 200-Day Systems-First Training Camp
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A structured, phase-driven 200-day preparation engine for GATE (CSE/IT), optimized for high ranks and IIT admissions.
 
-## Available Scripts
+This is not a productivity app.  
+This is a discipline system.
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## 🧠 Philosophy
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Preparation fails when:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- The syllabus is incomplete.
+- Revision is unstructured.
+- Weak subjects are avoided.
+- Mocks are taken emotionally.
+- Errors are not logged properly.
 
-### `npm test`
+This project enforces:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Phase-based subject ordering
+- Daily structured learning
+- PYQ-driven mastery
+- Error log discipline
+- Mock-driven compression
 
-### `npm run build`
+Goal: **Eliminate randomness from preparation.**
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 🏗️ Preparation Architecture
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Phase 1 (Day 1–60) — Core Systems
 
-### `npm run eject`
+- Digital Logic  
+- Computer Organization  
+- Operating Systems  
+- DBMS  
+- Computer Networks  
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Focus:
+- Conceptual foundation
+- Systems thinking
+- GATE-weighted topics
+- Early error logging habit
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### Phase 2 (Day 61–120) — Theory Stack
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- Discrete Mathematics  
+- Theory of Computation  
+- Compiler Design  
+- Algorithms  
 
-## Learn More
+Focus:
+- Proof-based clarity
+- Edge case handling
+- MSQ control
+- Mathematical precision
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+---
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Phase 3 (Day 121–170) — PYQ Domination
 
-### Code Splitting
+- Subject-wise full PYQ sweep
+- Mixed problem solving
+- Pattern extraction
+- MSQ elimination strategies
+- Error notebook expansion
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+---
 
-### Analyzing the Bundle Size
+### Phase 4 (Day 171–200) — Mock & Compression
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+- Full-length mocks
+- Mock analysis days
+- Weak area surgery
+- Revision compression
+- Time strategy refinement
 
-### Making a Progressive Web App
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## 📅 Daily Structure (Non-Negotiable)
 
-### Advanced Configuration
+Each day contains:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+### 1️⃣ Concept Study
+Deep topic focus.
+No passive reading.
 
-### Deployment
+### 2️⃣ PYQ Practice
+GATE-focused questions only.
+Emphasis on MSQs and NAT patterns.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+### 3️⃣ Error Log + Revision
+- Why mistake happened
+- Concept gap or careless?
+- Formula entry if required
+- Pattern tagging
 
-### `npm run build` fails to minify
+If these three are not completed, the day is incomplete.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+---
+
+## 📊 Features
+
+- 200 pre-structured days
+- Systems-first subject ordering
+- Phase tracking
+- Daily completion tracking
+- Persistent local storage
+- Mock highlighting
+- Mobile-first responsive UI
+- Minimal, distraction-free interface
+
+---
+
+## 🧱 Tech Stack
+
+- React (Create React App)
+- LocalStorage (No backend required)
+- Modular Plan Architecture (`plan.js`)
+
+---
+
+## 📁 Project Structure
+
